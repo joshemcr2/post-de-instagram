@@ -13,6 +13,9 @@ body{
 .post-header{
     display: flex;
     font-size: large;
+    align-items: center;
+    padding: 3px;
+    flex-direction: row;
 }
 
 .post-header-icon{
@@ -29,6 +32,7 @@ body{
     font-size: 40px;
     
     
+    
 }
 
 
@@ -37,7 +41,7 @@ body{
     display: flex;
     justify-content: space-between;
     font-size: 30px;
-    
+    padding: 6px;
     
 
 }
@@ -45,6 +49,7 @@ body{
 .post-body{
     text-align: center;
     text-align: justify;
+    padding: 6px;
 }
 
 .post-icons-right{
